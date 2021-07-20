@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/axie-gatsby-test',
   siteMetadata: {
     siteTitle: `Rocket Docs`,
     defaultTitle: `Rocket Docs`,
